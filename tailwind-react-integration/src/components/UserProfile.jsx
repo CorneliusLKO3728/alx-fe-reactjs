@@ -6,7 +6,7 @@ function UserProfile() {
         alt="User Profile"
         className="rounded-full w-24 h-24 sm:w-36 sm:h-36 mx-auto hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer"
       />
-      <h1 className="text-lg sm:text-xl text-blue-800 my-4 text-center hover:text-blue-500 transition-colors duration-300 ease-in-out cursor-pointer">
+      <h1 className="text-lg md:text-xl text-blue-800 my-4 text-center hover:text-blue-500 transition-colors duration-300 ease-in-out cursor-pointer">
         John Doe
       </h1>
       <p className="text-gray-600 text-sm sm:text-base text-center">
